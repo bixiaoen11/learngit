@@ -50,9 +50,9 @@
 
 `ddfgggfdg`
 
-(```)
+```
     function fun(){
         echo "这是一行非常牛逼的代码";
     }
     fun();
-(```)
+```
